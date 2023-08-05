@@ -14,7 +14,7 @@
 
 from pathlib import Path
 
-import youtokentome as yttm
+# import youtokentome as yttm
 
 from nemo.collections.common.tokenizers import TokenizerSpec
 
